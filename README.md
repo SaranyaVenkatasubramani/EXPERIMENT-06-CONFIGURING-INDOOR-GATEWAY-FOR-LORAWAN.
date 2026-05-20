@@ -1,4 +1,7 @@
-# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+# EXPERIMENT:06 CONFIGURING INDOOR GATEWAY FOR LORAWAN
+
+## Name: SARANYA AV
+## Reg No: 212224040297
 
 ## Aim: 
 
@@ -119,6 +122,11 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+
+<img width="592" height="567" alt="image" src="https://github.com/user-attachments/assets/fb1a35eb-0cbf-4d4a-8412-8ba4e17c4cda" />
+
+
+<img width="1913" height="952" alt="Screenshot 2026-05-20 092650" src="https://github.com/user-attachments/assets/e070dd55-63d9-43b2-aa5d-809bf78ea6cc" />
 
 
 
